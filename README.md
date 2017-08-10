@@ -3,9 +3,6 @@ Grabs some urls from a config file, and derives information about those urls
 
 ***************************************************************************************
 * "urlGrab" is a simple utility that will grab a list of urls, and return some metrics
-* written by: Ben Conley 12/13/2015
-* 
-* - I hope you guys like it, because I really want to work with you!
 * 
 ***************************************************************************************
 
